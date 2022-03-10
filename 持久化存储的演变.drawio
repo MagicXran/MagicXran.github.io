@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T14:49:22.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="4Gt-kJ_XsLi0dJwIYAHU" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T14:50:14.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="BncXeGtVLOMV9mp-mXDv" version="17.1.0" type="github">
   <diagram id="DEa69ErbjfxZWZCwauyj" name="Page-1">
     <mxGraphModel dx="1146" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="OS9RA0seU2cUAP2cbO_q-22" value="分治" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="320" y="420" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OS9RA0seU2cUAP2cbO_q-25" value="&lt;h1&gt;索引&lt;/h1&gt;&lt;div&gt;除了分治(将文件划分为块)&lt;/div&gt;&lt;div&gt;还需要索引数据, 到时候全量索引即可.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="280" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
